@@ -1,6 +1,6 @@
 # ENPM661 – Planning for Autonomous Robots
 
-# Project 2 : Implementation-of-the-Dijkstra-Algorithm-for-a-Point-Robot
+# Project 2
 
 ## A. File Structure
 
@@ -27,8 +27,7 @@ This projects consists of the following code files
     ```
 + Provide x input in the range of [0,600] and y input from [0,250]
 + The origin is considered as bottom left as shown in the figure below
-+ ![Screenshot 2023-03-13 042656](https://user-images.githubusercontent.com/112987383/224650276-750ffbbb-7d60-43f9-a18f-83d9afe5b5ad.png)
-
++ 
 
 
 ## E. Results
